@@ -12,9 +12,9 @@
 
 i) All the players play optimally
 
-ii) Their sole goal is to maximise their chances of winning (they do not care about the changes of the other players)
+ii) Their sole goal is to maximise their chances of winning (they do not care about the chances of the other players)
 
-iii) In case a more than one number is the optimal case the player will play ramdomly one of the optimal choices
+iii) In case a more than one number is the optimal case, the player will play ramdomly one of the optimal choices
 
 
 ## Questions:
